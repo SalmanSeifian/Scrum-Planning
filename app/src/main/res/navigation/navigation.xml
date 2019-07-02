@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation.xml"
+    app:startDestination="@id/joinOrCreateFragment">
+
+    <fragment
+        android:id="@+id/joinOrCreateFragment"
+        android:name="com.scrumplanning.joinorcreate.JoinOrCreateFragment"
+        android:label="JoinOrCreateFragment"
+        tools:layout="@layout/fragment_join_or_create">
+        <action
+            android:id="@+id/action_joinOrCreateFragment_to_createRoomFragment"
+            app:destination="@id/createRoomFragment"
+            app:popUpTo="@+id/joinOrCreateFragment" />
+        <action
+            android:id="@+id/action_joinOrCreateFragment_to_joinRoomFragment"
+            app:destination="@id/joinRoomFragment"
+            app:popUpTo="@+id/joinOrCreateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createRoomFragment"
+        android:name="com.scrumplanning.create.CreateRoomFragment"
+        android:label="CreateRoomFragment"
+        tools:layout="@layout/fragment_create_room" />
+    <fragment
+        android:id="@+id/joinRoomFragment"
+        android:name="com.scrumplanning.join.JoinRoomFragment"
+        android:label="JoinRoomFragment"
+        tools:layout="@layout/fragment_join_room" />
+</navigation>
