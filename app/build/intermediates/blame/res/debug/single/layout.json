@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_join_room.xml",
+        "source": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/res/layout/fragment_join_room.xml"
+    },
+    {
+        "merged": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_join_or_create.xml",
+        "source": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/res/layout/fragment_join_or_create.xml"
+    },
+    {
+        "merged": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_create_room.xml",
+        "source": "/home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/res/layout/fragment_create_room.xml"
+    }
+]

@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/de1be6fe8f70a8e7edb892cdba508ea4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/a177140f77e8aee58711e36ee5c28a29/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1d81bac92dd8f405a8cf1c80b3f515e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2df74d038347d01d868dc4bb887e3ff9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/c3c60911e75954af2d48e480cc94f94d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/0f99e42c5af1b84392f8b2e865471fc3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/salman/.gradle/caches/transforms-2/files-2.1/1f47fe14059217195300a04645ae9676/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/21f1614f647fad0a1daba77160d56aed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/60d8a956922c7c457194ff0d54026da3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3cca688aa814545ba33c22daad5b26e7/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e9949833af126995d8c792d2dfa88aad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/058baaa7d22dd95d6a19826fb6483a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/93c85307fc6937db3a2325f55cbbe43f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e6f2418a3c7a3fbeba422bff3e001192/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cd551cf7ffb78fc6e764686deeeeba69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a7c55a193079a529bc93189eee5cc9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/264c34d725f3fcfa90f82fc63e0f4e13/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2902d600fe538458dd043279a5fcb521/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/d8ac15508cd59c470b0d147ac28bba31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/salman/.gradle/caches/transforms-2/files-2.1/9241d0e7e73cac6a80fff90ef0520a7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e1b5dd55b633f0bfd2045a64a5b68885/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2ae98e55a1c3ebfd76d9e365fb671df2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/bd00bde6868e540ea5687675bc190d40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5c13ec0762d4cc4f3fe181e5a72fe287/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/412244e0730bd9d860a6a169106cd29c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/0180fc71555037406eb7633d22941d18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/07dddca2cb7f686d5a897e3020ec69ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/72d3a7200f5379c25ed41fd4dd644c42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/eaa5aa17761d146d93f730531a4483f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/26887d7909f4c656117560ab70ae3a93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/23d85fd29816c83204099214a7345255/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/751e82847340efefd605807f5cb51be9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5ec7397ea5d22a462a6185883e56db84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a99cd72455a02e62e9f0d239e5c0f2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/f48987a4f30dc0d2790acaafde47c6b6/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/92a1fa95a2a5c3ea7dcbfd3b6f6a5471/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/525d3dee2fbc8555e801275ae8171fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/7c4a1362b84e6ced41c58f7a59a5d8b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/34adc00838b5050380a65e00c301901b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cf837678590e6b092f711c9976838748/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/6588d1a495b36aff3c86c63eb32b5d8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3bbf73b4828eba4b63f9a123f4d6c9e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/b6c133face12d9c7daf004b8d30c09f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/8f854ed08246d363a19d07e3aaf0c363/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/fcba3ce49feb80611b14d08006c80cdb/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:3:11-38
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/c3c60911e75954af2d48e480cc94f94d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/c3c60911e75954af2d48e480cc94f94d/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/salman/.gradle/caches/transforms-2/files-2.1/1f47fe14059217195300a04645ae9676/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/salman/.gradle/caches/transforms-2/files-2.1/1f47fe14059217195300a04645ae9676/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3cca688aa814545ba33c22daad5b26e7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3cca688aa814545ba33c22daad5b26e7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/f48987a4f30dc0d2790acaafde47c6b6/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/f48987a4f30dc0d2790acaafde47c6b6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.scrumplanning.MainActivity
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/de1be6fe8f70a8e7edb892cdba508ea4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/de1be6fe8f70a8e7edb892cdba508ea4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/a177140f77e8aee58711e36ee5c28a29/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /home/salman/.gradle/caches/transforms-2/files-2.1/a177140f77e8aee58711e36ee5c28a29/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1d81bac92dd8f405a8cf1c80b3f515e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1d81bac92dd8f405a8cf1c80b3f515e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2df74d038347d01d868dc4bb887e3ff9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2df74d038347d01d868dc4bb887e3ff9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/c3c60911e75954af2d48e480cc94f94d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/c3c60911e75954af2d48e480cc94f94d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/0f99e42c5af1b84392f8b2e865471fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/0f99e42c5af1b84392f8b2e865471fc3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/salman/.gradle/caches/transforms-2/files-2.1/1f47fe14059217195300a04645ae9676/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/salman/.gradle/caches/transforms-2/files-2.1/1f47fe14059217195300a04645ae9676/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/21f1614f647fad0a1daba77160d56aed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/21f1614f647fad0a1daba77160d56aed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/60d8a956922c7c457194ff0d54026da3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/60d8a956922c7c457194ff0d54026da3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3cca688aa814545ba33c22daad5b26e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3cca688aa814545ba33c22daad5b26e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e9949833af126995d8c792d2dfa88aad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e9949833af126995d8c792d2dfa88aad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/058baaa7d22dd95d6a19826fb6483a8d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/058baaa7d22dd95d6a19826fb6483a8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/93c85307fc6937db3a2325f55cbbe43f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/93c85307fc6937db3a2325f55cbbe43f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e6f2418a3c7a3fbeba422bff3e001192/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e6f2418a3c7a3fbeba422bff3e001192/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cd551cf7ffb78fc6e764686deeeeba69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cd551cf7ffb78fc6e764686deeeeba69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a7c55a193079a529bc93189eee5cc9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a7c55a193079a529bc93189eee5cc9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/264c34d725f3fcfa90f82fc63e0f4e13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/264c34d725f3fcfa90f82fc63e0f4e13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2902d600fe538458dd043279a5fcb521/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2902d600fe538458dd043279a5fcb521/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/d8ac15508cd59c470b0d147ac28bba31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/d8ac15508cd59c470b0d147ac28bba31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/salman/.gradle/caches/transforms-2/files-2.1/9241d0e7e73cac6a80fff90ef0520a7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/salman/.gradle/caches/transforms-2/files-2.1/9241d0e7e73cac6a80fff90ef0520a7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e1b5dd55b633f0bfd2045a64a5b68885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/e1b5dd55b633f0bfd2045a64a5b68885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2ae98e55a1c3ebfd76d9e365fb671df2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/2ae98e55a1c3ebfd76d9e365fb671df2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/bd00bde6868e540ea5687675bc190d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/bd00bde6868e540ea5687675bc190d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5c13ec0762d4cc4f3fe181e5a72fe287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5c13ec0762d4cc4f3fe181e5a72fe287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/412244e0730bd9d860a6a169106cd29c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/412244e0730bd9d860a6a169106cd29c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/0180fc71555037406eb7633d22941d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/0180fc71555037406eb7633d22941d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/07dddca2cb7f686d5a897e3020ec69ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/07dddca2cb7f686d5a897e3020ec69ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/72d3a7200f5379c25ed41fd4dd644c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/72d3a7200f5379c25ed41fd4dd644c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/eaa5aa17761d146d93f730531a4483f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/eaa5aa17761d146d93f730531a4483f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/26887d7909f4c656117560ab70ae3a93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/26887d7909f4c656117560ab70ae3a93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/23d85fd29816c83204099214a7345255/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/23d85fd29816c83204099214a7345255/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/751e82847340efefd605807f5cb51be9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/751e82847340efefd605807f5cb51be9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/salman/.gradle/caches/transforms-2/files-2.1/b931e8373db4a05e31dc510242c1eb60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5ec7397ea5d22a462a6185883e56db84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/5ec7397ea5d22a462a6185883e56db84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a99cd72455a02e62e9f0d239e5c0f2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/1a99cd72455a02e62e9f0d239e5c0f2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/f48987a4f30dc0d2790acaafde47c6b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/f48987a4f30dc0d2790acaafde47c6b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/92a1fa95a2a5c3ea7dcbfd3b6f6a5471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/92a1fa95a2a5c3ea7dcbfd3b6f6a5471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/525d3dee2fbc8555e801275ae8171fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/525d3dee2fbc8555e801275ae8171fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/7c4a1362b84e6ced41c58f7a59a5d8b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/7c4a1362b84e6ced41c58f7a59a5d8b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/34adc00838b5050380a65e00c301901b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/34adc00838b5050380a65e00c301901b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cf837678590e6b092f711c9976838748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/cf837678590e6b092f711c9976838748/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/6588d1a495b36aff3c86c63eb32b5d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/6588d1a495b36aff3c86c63eb32b5d8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3bbf73b4828eba4b63f9a123f4d6c9e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/3bbf73b4828eba4b63f9a123f4d6c9e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/b6c133face12d9c7daf004b8d30c09f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/b6c133face12d9c7daf004b8d30c09f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/8f854ed08246d363a19d07e3aaf0c363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/8f854ed08246d363a19d07e3aaf0c363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/fcba3ce49feb80611b14d08006c80cdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/fcba3ce49feb80611b14d08006c80cdb/AndroidManifest.xml:20:5-44
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		ADDED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/salman/AndroidStudioProjects/ScrumPlanning/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/salman/.gradle/caches/transforms-2/files-2.1/513045665f7dfbb0a1336b0a36ae44f0/AndroidManifest.xml:24:13-79
