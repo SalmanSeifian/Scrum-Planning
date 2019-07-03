@@ -18,6 +18,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
+            android:layout_marginBottom="@dimen/large_margin"
             android:fontFamily="@font/roboto"
             android:gravity="center"
             android:text="@string/scrum_planning"
@@ -28,8 +29,10 @@
             style="@style/Widget.AppCompat.Button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/medium_margin"
-            android:layout_marginRight="@dimen/medium_margin"
+            android:layout_marginLeft="@dimen/large_margin"
+            android:layout_marginRight="@dimen/large_margin"
+            android:layout_marginBottom="@dimen/medium_margin"
+            android:background="@drawable/btn_rounded_empty"
             android:onClick="@{() -> joinOrCreateViewModel.onJoin()}"
             android:text="@string/join_room" />
 
@@ -38,9 +41,10 @@
             style="@style/Widget.AppCompat.Button.Colored"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/medium_margin"
+            android:layout_marginLeft="@dimen/large_margin"
+            android:layout_marginRight="@dimen/large_margin"
+            android:background="@drawable/btn_rounded"
             android:onClick="@{() -> joinOrCreateViewModel.onCreate()}"
-            android:layout_marginRight="@dimen/medium_margin"
             android:text="@string/create_room" />
     </LinearLayout>
 </layout>

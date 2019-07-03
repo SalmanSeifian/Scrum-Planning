@@ -11,4 +11,6 @@
     <string name="creator_name">Creator Name</string>
     <string name="create_a_new_room">Create A New Room</string>
     <string name="join_an_existing_room">Join An Existing Room</string>
+    <string name="room_id">Room ID</string>
+    <string name="participant_name">Participant Name</string>
 </resources>

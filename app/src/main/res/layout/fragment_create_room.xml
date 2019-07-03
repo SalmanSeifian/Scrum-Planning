@@ -2,13 +2,13 @@
 <layout>
 
     <data>
+
         <variable
             name="createRoomViewModel"
             type="com.scrumplanning.create.CreateRoomViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
@@ -21,51 +21,56 @@
             android:text="@string/create_a_new_room"
             android:textSize="20sp" />
 
-        <EditText
-            android:id="@+id/edt_room_title"
+        <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/medium_margin"
             android:layout_marginTop="@dimen/medium_margin"
             android:layout_marginRight="@dimen/medium_margin"
-            android:hint="@string/room_title"
-            android:importantForAutofill="no"
-            android:inputType="text"
-            tools:targetApi="o" />
+            android:hint="@string/room_title">
 
-        <EditText
-            android:id="@+id/edt_room_description"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="@dimen/medium_margin"
-            android:layout_marginTop="@dimen/medium_margin"
-            android:layout_marginRight="@dimen/medium_margin"
-            android:hint="@string/room_description"
-            android:importantForAutofill="no"
-            android:inputType="text"
-            tools:targetApi="o" />
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
 
-        <EditText
-            android:id="@+id/edt_creator_name"
+
+        <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/medium_margin"
             android:layout_marginTop="@dimen/medium_margin"
             android:layout_marginRight="@dimen/medium_margin"
-            android:hint="@string/creator_name"
-            android:importantForAutofill="no"
-            android:inputType="text"
-            tools:targetApi="o" />
+            android:hint="@string/room_description">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/medium_margin"
+            android:layout_marginTop="@dimen/medium_margin"
+            android:layout_marginRight="@dimen/medium_margin"
+            android:hint="@string/creator_name">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
 
         <Button
             android:id="@+id/btn_create"
             style="@style/Widget.AppCompat.Button.Colored"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="@{() -> createRoomViewModel.onRoomCreate()}"
             android:layout_marginLeft="@dimen/medium_margin"
             android:layout_marginTop="@dimen/medium_margin"
             android:layout_marginRight="@dimen/medium_margin"
+            android:background="@drawable/btn_rounded"
+            android:onClick="@{() -> createRoomViewModel.onRoomCreate()}"
             android:text="@string/create_room" />
 
     </LinearLayout>
