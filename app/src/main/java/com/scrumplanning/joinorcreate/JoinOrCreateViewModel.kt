@@ -25,4 +25,10 @@ class JoinOrCreateViewModel : ViewModel() {
         _navigateToCreateRoomFragment.value = true
     }
 
+
+    fun doneNavigation() {
+        _navigateToCreateRoomFragment.value = false
+        _navigateToJoinRoomFragment.value = false
+    }
+
 }

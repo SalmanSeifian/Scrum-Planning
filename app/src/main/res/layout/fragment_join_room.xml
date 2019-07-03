@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:gravity="center"
-            android:text="@string/join_room"
+            android:text="@string/join_an_existing_room"
             android:textSize="15sp" />
 
         <EditText
@@ -46,7 +46,7 @@
 
         <Button
             android:id="@+id/btn_join"
-            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            style="@style/Widget.AppCompat.Button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/medium_margin"

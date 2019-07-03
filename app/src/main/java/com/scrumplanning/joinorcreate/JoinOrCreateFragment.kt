@@ -36,6 +36,7 @@ class JoinOrCreateFragment : Fragment() {
             if (t) {
                 this.findNavController()
                     .navigate(JoinOrCreateFragmentDirections.actionJoinOrCreateFragmentToJoinRoomFragment())
+                joinOrCreateViewModel.doneNavigation()
             }
         })
 
@@ -43,6 +44,8 @@ class JoinOrCreateFragment : Fragment() {
             if (t) {
                 this.findNavController()
                     .navigate(JoinOrCreateFragmentDirections.actionJoinOrCreateFragmentToCreateRoomFragment())
+                joinOrCreateViewModel.doneNavigation()
+
             }
         })
         return binding.root

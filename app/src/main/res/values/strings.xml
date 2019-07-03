@@ -9,4 +9,6 @@
     <string name="room_title">Room Title</string>
     <string name="room_description">Room Description</string>
     <string name="creator_name">Creator Name</string>
+    <string name="create_a_new_room">Create A New Room</string>
+    <string name="join_an_existing_room">Join An Existing Room</string>
 </resources>
