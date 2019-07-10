@@ -1,4 +1,4 @@
-package com.scrumplanning.joinorcreate
+package com.scrumplanning.ui.joinorcreate
 
 import android.os.Bundle
 import android.view.LayoutInflater

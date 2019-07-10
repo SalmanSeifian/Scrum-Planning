@@ -1,4 +1,4 @@
-package com.scrumplanning.create
+package com.scrumplanning.ui.create
 
 
 import android.os.Bundle

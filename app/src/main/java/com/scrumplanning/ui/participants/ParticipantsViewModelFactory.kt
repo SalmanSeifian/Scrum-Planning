@@ -1,12 +1,12 @@
-package com.scrumplanning.joinorcreate
+package com.scrumplanning.ui.participants
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 
-class JoinOrCreateViewModelFactory : ViewModelProvider.Factory {
+class ParticipantsViewModelFactory: ViewModelProvider.Factory{
     override fun <T : ViewModel?> create(modelClass: Class<T>): T {
-        if (modelClass.isAssignableFrom(JoinOrCreateViewModel::class.java)) {
-            return JoinOrCreateViewModel() as T
+        if (modelClass.isAssignableFrom(ParticipantsViewModel::class.java)){
+            return ParticipantsViewModel() as T
         }
         throw IllegalArgumentException("Unknown ViewModel class")
     }

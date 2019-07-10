@@ -1,6 +1,6 @@
 package com.scrumplanning.di.module
 
-import com.scrumplanning.MainActivity
+import com.scrumplanning.ui.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

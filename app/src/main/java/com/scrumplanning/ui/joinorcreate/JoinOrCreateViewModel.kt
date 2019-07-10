@@ -1,4 +1,4 @@
-package com.scrumplanning.joinorcreate
+package com.scrumplanning.ui.joinorcreate
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

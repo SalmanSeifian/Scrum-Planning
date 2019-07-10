@@ -1,4 +1,4 @@
-package com.scrumplanning.participants
+package com.scrumplanning.ui.participants
 
 import android.view.LayoutInflater
 import android.view.View

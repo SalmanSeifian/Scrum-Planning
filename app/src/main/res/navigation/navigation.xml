@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/joinOrCreateFragment"
-        android:name="com.scrumplanning.joinorcreate.JoinOrCreateFragment"
+        android:name="com.scrumplanning.ui.joinorcreate.JoinOrCreateFragment"
         android:label="JoinOrCreateFragment"
         tools:layout="@layout/fragment_join_or_create">
         <action
@@ -21,12 +21,12 @@
     </fragment>
     <fragment
         android:id="@+id/createRoomFragment"
-        android:name="com.scrumplanning.create.CreateRoomFragment"
+        android:name="com.scrumplanning.ui.create.CreateRoomFragment"
         android:label="CreateRoomFragment"
         tools:layout="@layout/fragment_create_room" />
     <fragment
         android:id="@+id/joinRoomFragment"
-        android:name="com.scrumplanning.join.JoinRoomFragment"
+        android:name="com.scrumplanning.ui.join.JoinRoomFragment"
         android:label="JoinRoomFragment"
         tools:layout="@layout/fragment_join_room" />
 </navigation>

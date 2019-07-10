@@ -1,4 +1,4 @@
-package com.scrumplanning.join
+package com.scrumplanning.ui.join
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

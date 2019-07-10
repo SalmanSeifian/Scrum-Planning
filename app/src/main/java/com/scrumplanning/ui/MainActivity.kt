@@ -1,7 +1,8 @@
-package com.scrumplanning
+package com.scrumplanning.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.scrumplanning.R
 
 class MainActivity : AppCompatActivity() {
 
