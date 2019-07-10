@@ -5,7 +5,7 @@
 
         <variable
             name="joinRoomViewModel"
-            type="com.scrumplanning.join.JoinRoomViewModel" />
+            type="com.scrumplanning.ui.join.JoinRoomViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

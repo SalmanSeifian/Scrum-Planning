@@ -5,7 +5,7 @@
 
         <variable
             name="createRoomViewModel"
-            type="com.scrumplanning.create.CreateRoomViewModel" />
+            type="com.scrumplanning.ui.create.CreateRoomViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

@@ -5,7 +5,7 @@
 
         <variable
             name="joinOrCreateViewModel"
-            type="com.scrumplanning.joinorcreate.JoinOrCreateViewModel" />
+            type="com.scrumplanning.ui.joinorcreate.JoinOrCreateViewModel" />
     </data>
 
     <LinearLayout
