@@ -6,6 +6,8 @@ apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'androidx.navigation.safeargs'
 
+apply plugin: 'kotlin-kapt'
+
 android {
     compileSdkVersion 28
     defaultConfig {
@@ -48,6 +50,23 @@ dependencies {
     // Navigation
     implementation "android.arch.navigation:navigation-fragment-ktx:$version_navigation"
     implementation "android.arch.navigation:navigation-ui-ktx:$version_navigation"
+
+    //dagger2
+    kapt "com.google.dagger:dagger-compiler:$dagger2Version"
+    kapt "com.google.dagger:dagger-android-processor:$dagger2Version"
+    implementation "com.google.dagger:dagger-android:$dagger2Version"
+
+    //moshi
+    implementation "com.squareup.moshi:moshi-kotlin:$moshiKotlinVersion"
+
+
+    //Retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    implementation "com.squareup.retrofit2:converter-moshi:$retrofitVersion"
+    implementation "com.squareup.retrofit2:adapter-rxjava2:$retrofitVersion"
+    //RxJava RxAndroid
+    implementation "io.reactivex.rxjava2:rxjava:$rxJava2Version"
+    implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
 
 
     // Testing
