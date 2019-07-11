@@ -34,6 +34,6 @@ class NetworkModule(private val baseUrl: String) {
 
     @Provides
     @Singleton
-    fun providesApiInterfce(retrofit: Retrofit): ApiInterface = retrofit.create(ApiInterface::class.java)
+    fun providesApiInterface(retrofit: Retrofit): ApiInterface = retrofit.create(ApiInterface::class.java)
 
 }

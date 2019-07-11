@@ -26,6 +26,10 @@ class CreateRoomFragment : Fragment() {
         val createRoomViewModel = ViewModelProviders.of(this, viewModelFactory).get(CreateRoomViewModel::class.java)
 
         binding.createRoomViewModel = createRoomViewModel
+
+        binding.btnCreate.setOnClickListener {
+            createRoomViewModel.onRoomCreate(binding.edtRoomTitle.text.toString())
+        }
         binding.lifecycleOwner = this
 
         return binding.root

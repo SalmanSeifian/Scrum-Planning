@@ -10,14 +10,10 @@ import javax.inject.Singleton
 
 @Singleton
 @Component(
-    modules = arrayOf(
-        AndroidInjectionModule::class,
-        BuildersModule::class,
-        AppModule::class,
-        NetworkModule::class
-    )
+    modules = [AndroidInjectionModule::class, BuildersModule::class, AppModule::class, NetworkModule::class]
 )
 interface AppComponent {
 
     fun inject(app: ScrumPlanningApplication)
+
 }

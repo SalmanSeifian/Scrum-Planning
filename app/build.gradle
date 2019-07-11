@@ -23,7 +23,11 @@ android {
         enabled = true
     }
     buildTypes {
+        debug{
+            buildConfigField('String', 'URL', '"http://82.102.10.119:8080/v1/"')
+        }
         release {
+            buildConfigField('String', 'URL', '"http://82.102.10.119:8080/v1/"')
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
@@ -67,6 +71,9 @@ dependencies {
     //RxJava RxAndroid
     implementation "io.reactivex.rxjava2:rxjava:$rxJava2Version"
     implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
+
+    // Timber
+    implementation 'com.jakewharton.timber:timber:4.7.1'
 
 
     // Testing
