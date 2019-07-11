@@ -4,7 +4,6 @@ import android.app.Activity
 import android.app.Application
 import com.scrumplanning.di.component.DaggerAppComponent
 import com.scrumplanning.di.module.AppModule
-import com.scrumplanning.di.module.NetworkModule
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasActivityInjector
@@ -24,7 +23,6 @@ class ScrumPlanningApplication : Application(), HasActivityInjector {
 
         DaggerAppComponent.builder()
             .appModule(AppModule(this))
-            .networkModule(NetworkModule(BuildConfig.URL))
             .build()
             .inject(this)
     }

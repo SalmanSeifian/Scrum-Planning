@@ -23,11 +23,7 @@ android {
         enabled = true
     }
     buildTypes {
-        debug{
-            buildConfigField('String', 'URL', '"http://82.102.10.119:8080/v1/"')
-        }
         release {
-            buildConfigField('String', 'URL', '"http://82.102.10.119:8080/v1/"')
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
