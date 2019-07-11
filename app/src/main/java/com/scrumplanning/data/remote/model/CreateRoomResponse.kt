@@ -1,4 +1,4 @@
-package com.scrumplanning.data.remote
+package com.scrumplanning.data.remote.model
 
 data class CreateRoomResponse(
     val created: String,
