@@ -1,4 +1,4 @@
-package com.scrumplanning
+package com.scrumplanning.base
 
 import androidx.lifecycle.ViewModel
 import io.reactivex.disposables.CompositeDisposable
