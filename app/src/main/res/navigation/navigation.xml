@@ -23,10 +23,19 @@
         android:id="@+id/createRoomFragment"
         android:name="com.scrumplanning.ui.create.CreateRoomFragment"
         android:label="CreateRoomFragment"
-        tools:layout="@layout/fragment_create_room" />
+        tools:layout="@layout/fragment_create_room" >
+        <action
+            android:id="@+id/action_createRoomFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
     <fragment
         android:id="@+id/joinRoomFragment"
         android:name="com.scrumplanning.ui.join.JoinRoomFragment"
         android:label="JoinRoomFragment"
         tools:layout="@layout/fragment_join_room" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.scrumplanning.ui.main.MainFragment"
+        android:label="mainFragment"
+        tools:layout="@layout/fragment_main" />
 </navigation>
