@@ -15,4 +15,12 @@ interface AppComponent {
 
     fun inject(app: ScrumPlanningApplication)
 
+    @Component.Builder
+    interface Builder {
+
+        fun build(): AppComponent
+
+        fun appModule(appModule: AppModule): Builder
+    }
+
 }
